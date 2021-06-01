@@ -17,7 +17,7 @@ Hope this is helpful to other students, if you don't mind please leave a star! E
   * caesar
   * substitution
   * readability
-* Problem Set3: Elections - Assignments 3
+* Problem Set 3: Elections - Assignments 3
   * plurality
   * runoff
   * tideman
